@@ -18,7 +18,7 @@ const Vaga = (props: Props) => (
       <li>Senioridade: {props.nivel}</li>
       <li>Tipo de contratacao: {props.modalidade}</li>
       <li>
-        Salário: {props.salarioMin} - {props.salarioMax}
+        SalÃ¡rio: {props.salarioMin} - {props.salarioMax}
       </li>
       <li>Requisitos: {props.requisitos.join(', ')}</li>
     </ul>

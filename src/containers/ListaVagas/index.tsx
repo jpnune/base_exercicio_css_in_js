@@ -80,7 +80,7 @@ const vagas = [
   {
     id: 7,
     titulo: 'Desenvolvedor front-end',
-    localizacao: 'São Paulo/SP',
+    localizacao: 'SÃ£o Paulo/SP',
     nivel: 'junior',
     modalidade: 'clt',
     salarioMin: 4000,
